@@ -1,0 +1,10 @@
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
+ImageShow = "4e3cecfd-b093-5904-9786-8bbb286a6a31"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
+StrangelyDisplayed = "2758cba6-35f6-470b-a9e5-bed48563b926"
+StrangelyQuantum = "fcbeacff-9432-4d73-a7b6-aa04bbc0f991"
