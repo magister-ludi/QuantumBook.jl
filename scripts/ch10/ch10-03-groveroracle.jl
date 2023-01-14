@@ -5,13 +5,13 @@ using StrangelyQuantum
 
 function grover_oracle()
     print("Use 00 as input")
-    testOracle(0, 0)
+    testOracle(1)
     print("\nUse 01 as input")
-    testOracle(0, 1)
+    testOracle(2)
     print("\nUse 10 as input")
-    testOracle(1, 0)
+    testOracle(3)
     print("\nUse 11 as input")
-    testOracle(1, 1)
+    testOracle(4)
 end
 
 function testOracle(w::Integer)
