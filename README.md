@@ -1,7 +1,7 @@
 # QuantumBook.jl
-This is a Julia port of the [code](https://github.com/johanvos/quantumjava) from the book "[Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action)".
+This is a Julia port of the [Java code](https://github.com/johanvos/quantumjava) from the book "[Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action)".
 
-Julia versions of most of the code presented in the book is provided as notebooks and as stand alone scripts.
+Julia versions of most of the code presented in the book is provided as Jupyter notebooks and as stand alone scripts.
 
 ## Setup
 
